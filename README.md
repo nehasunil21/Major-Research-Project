@@ -31,3 +31,12 @@ An exploratory analysis is conducted using descriptive analytics as well as data
 
 The project has been divided into different segments:
 * Exploratoy Data Analysis & Visualization [Exploratory Data Analysis.ipynb](https://github.com/nehasunil21/Breast_Cancer_Classification/blob/main/Exploratory%20Data%20Analysis.ipynb)
+* Feature Selection Techniques [Feature Selection Techniques.ipynb](https://github.com/nehasunil21/Breast_Cancer_Classification/blob/main/Feature%20Selection%20Techniques.ipynb)
+* Modeling using the different feature selection techniques:
+* - Correlation [
+Modeling using Correlation approach.ipynb](https://github.com/nehasunil21/Breast_Cancer_Classification/blob/main/Modeling/Modeling%20using%20Correlation%20approach.ipynb)
+* - Univariate Feature Selection (chi-square) [Modeling using Univariate (chi_square) approach.ipynb](https://github.com/nehasunil21/Breast_Cancer_Classification/blob/main/Modeling/Modeling%20using%20Univariate%20(chi_square)%20approach.ipynb)
+* - Recursive Feature Elimination with Random Forest [Modeling using RFE approach.ipynb](https://github.com/nehasunil21/Breast_Cancer_Classification/blob/main/Modeling/Modeling%20using%20RFE%20approach.ipynb)
+* - Recursive Feature Elimination using Cross-Validation with Random Forest [Modeling using RFECV approach.ipynb](https://github.com/nehasunil21/Breast_Cancer_Classification/blob/main/Modeling/Modeling%20using%20RFECV%20%20approach.ipynb)
+* - Tree based Feature Selection (ExtraTrees) [Modeling using Extra Trees approach.ipynb](https://github.com/nehasunil21/Breast_Cancer_Classification/blob/main/Modeling/Modeling%20using%20Extra%20Trees%20approach.ipynb)
+* - Vote based Feature selection [Modeling using Vote based approach.ipynb](https://github.com/nehasunil21/Breast_Cancer_Classification/blob/main/Modeling/Modeling%20using%20Vote%20based%20approach.ipynb)
