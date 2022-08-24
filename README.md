@@ -1,4 +1,4 @@
-# Breast_Cancer_Classification
+# Breast Cancer Classification
 
 # Prediction and Classification of Breast Cancer using Machine Learning techniques
 
