@@ -46,5 +46,3 @@ Modeling using Correlation approach.ipynb](https://github.com/nehasunil21/Breast
 
 This project put to practice a machine learning approach to classify whether the tumor in the breast is benign or malignant and help predict the reappearance of cases classified as malignant by identifying those features that had a significant impact on the prediction of the target variable. We were able to implement different feature selection techniques to minimize redundancy and consequently build different machine learning models with improved accuracy.
 According to our findings, Support Vector Machine outperformed all the other models in analysis and prediction of cancer.
-
-Please refer to [Breast Cancer Classification Report .pdf](https://github.com/nehasunil21/Major-Research-Project/blob/main/Breast%20Cancer%20Classification%20Report%20.pdf) for a detailed report on this study.
